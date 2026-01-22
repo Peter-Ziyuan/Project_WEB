@@ -49,3 +49,6 @@ exclude:
   - LICENSE.md
   - LICENSE
   - README.md
+
+url: "https://peter-ziyuan.github.io"
+baseurl: "/Project_WEB"
